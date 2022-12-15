@@ -1,16 +1,14 @@
-### Hi there 👋
+Hey 👋
 
-<!--
-**HermannH34/HermannH34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Hermann, I'm a Backend developer.
 
-Here are some ideas to get you started:
+I’m currently working on [re:Cycle - giving life to old bikes !](https://www.recycle-velo.me/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently learning **PHP, Symfony & Unit testing.**
+
+👨‍💻 I love to solve [algorithmic challenges](https://www.codewars.com/users/HermannH).
+
+📫 How to reach me: hermannhairet44@gmail.com
+
+
+HermannH34
