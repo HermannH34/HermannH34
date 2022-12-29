@@ -1,7 +1,7 @@
 Hey !
 
 
-My name is Hermann, I'm a Ruby on Rails developer.
+I'm Hermann, a Ruby on Rails developer.
 
 
 I’m currently working on [re:Cycle - giving life to old bikes !](https://www.recycle-velo.me/)
