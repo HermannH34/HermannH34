@@ -1,6 +1,3 @@
-Hey !
-
-
 I'm Hermann, a Ruby on Rails developer.
 
 
