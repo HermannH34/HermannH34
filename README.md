@@ -5,6 +5,7 @@
 * I’m currently working on [Pharmas-API](https://github.com/HermannH34/pharmas-api) an API made whith JavaScript and Node.js
 * Also I contribute to [RestQA](https://github.com/restqa), an Open Source project and ready to use platform to automate the test of your API and Microservices
 * Previously I worked on [re:Cycle - giving life to old bikes !](https://www.recycle-velo.me/), an app made with Ruby on Rails
+* All of my projects are available on this page !
 
 #### Languages
 
