@@ -1,6 +1,6 @@
 ## Hi, :wave: I'm Hermann
 
-### A back-end developer from Paris and southern France
+### A back-end developer from Paris
 
 * I’m currently working on [Pharmas-API](https://github.com/HermannH34/pharmas-api) an API made whith JavaScript and Node.js
 * Also I contribute to [RestQA](https://github.com/restqa), an Open Source project and ready to use platform to automate the test of your API and Microservices
